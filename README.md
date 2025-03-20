@@ -1,4 +1,4 @@
 # About me  
 ### Call me lonelycat :)
   From Shanghai China  
-  24ss Fudan University  
+  24software engineering in Fudan University  
