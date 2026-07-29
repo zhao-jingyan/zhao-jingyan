@@ -1,3 +1,3 @@
 # About me  
   Shanghai China  
-  Currently working on WisePenView
+  Currently working on WisePen
